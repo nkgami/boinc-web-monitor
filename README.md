@@ -22,6 +22,11 @@ SENSOR to 1. If you can use 'aticonfig' command, set AMD to 1.
 4. Run make\_html.sh. If you need scheduling, please use cron.
 5. Access your machine from browser.
 
+## ScreenShots
+![TaskList](https://raw.githubusercontent.com/wiki/nkgami/boinc-web-monitor/images/boinc_sc0.png)
+![ProjectList](https://raw.githubusercontent.com/wiki/nkgami/boinc-web-monitor/images/boinc_sc1.png)
+![Sensors](https://raw.githubusercontent.com/wiki/nkgami/boinc-web-monitor/images/boinc_sc2.png)
+
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
