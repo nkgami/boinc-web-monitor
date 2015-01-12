@@ -1,0 +1,16 @@
+body{
+	background-color: #87ceeb;
+}
+
+tr.header{
+	background-color: #d3d3d3;
+	margin-bottom:2px;
+}
+
+tr.normal{
+	background-color: #ffffff;
+	margin-bottom:2px;
+}
+div.sensors{
+	background-color: #e0e0e0;
+}
